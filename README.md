@@ -4,7 +4,7 @@ I'm a programmer and a mechanical engineer.  I write Python, Ruby, Bash, and Rus
 
 I really love learning new things, though, so I could probably be productive in whatever language you threw at me.  I'm actively looking for my first coding job: something full-time as a junior back-end dev, SysDevOps, SRE, tooling, or documentation engineer would be my favorite.
 
-<a href="mailto:ryan@thepalos.com">![Please hire me.](hire-me.gif)</a>
+<a href="mailto:ryan@thepalos.com">![Please hire me.](https://github.com/rpalo/rpalo/blob/master/hire-me.gif)</a>
 
 Here are some places around the internet you can find me:
 
